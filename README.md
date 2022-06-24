@@ -4,6 +4,9 @@
 <br>
 <img align="left" width=45% src="https://github-readme-stats.vercel.app/api?username=panitnt&show_icons=true&theme=dracula">
 <img align="left" width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=panitnt&layout=compact">
+<br>
+<img src="https://komarev.com/ghpvc/?username=panitnt&label=Profile%20views&color=0e75b6&style=flat" alt="panitnt">
+
 <!--
 **panitnt/panitnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
