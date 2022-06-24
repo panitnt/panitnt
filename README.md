@@ -2,8 +2,8 @@
 🌱 I’m currently learning in programming.
 <br>
 <br>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=panitnt&show_icons=true&theme=dracula">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=panitnt&layout=compact">
+<img align="left" width=45% src="https://github-readme-stats.vercel.app/api?username=panitnt&show_icons=true&theme=dracula">
+<img align="left" width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=panitnt&layout=compact">
 <!--
 **panitnt/panitnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
