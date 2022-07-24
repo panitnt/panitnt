@@ -2,8 +2,8 @@
 🌱 I’m currently learning in programming.
 <br>
 <br>
-<img align="left" width=45% src="https://github-readme-stats.vercel.app/api?username=panitnt&show_icons=true&theme=dracula">
-<img align="left" width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=panitnt&layout=compact">
+<img height=150px src="https://github-readme-stats.vercel.app/api?username=panitnt&show_icons=true&theme=dracula">
+<img height=150px src="https://github-readme-stats.vercel.app/api/top-langs/?username=panitnt&layout=compact">
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
