@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=panitnt" alt="panitnt" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Java and JavaScript**
 - 👨‍💻 All of my projects are available at [https://panitnt.pythonanywhere.com/](https://panitnt.pythonanywhere.com/)
 
 <h3 align="left">Languages and Tools:</h3>
