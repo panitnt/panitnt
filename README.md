@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=panitnt" alt="panitnt" /></a> </p>
 
 - 🌱 I’m currently learning <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge" /><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=for-the-badge" />
-- 👨‍💻 All of my projects are available at [https://panitnt.pythonanywhere.com/](https://panitnt.pythonanywhere.com/)
+- 👨‍💻 All of my projects are available at <a href="https://panitnt.pythonanywhere.com/" target="_blank">https://panitnt.pythonanywhere.com/</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
