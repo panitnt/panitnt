@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Panitta.</h1>
 <h3 align="center">Software and Knowledge Engineering student at Kasetsart University.</h3>
-<p> <3 @natekrth </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=panitnt" alt="panitnt" /></a> </p>
 
 - 🌱 I’m currently learning <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge" /><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=for-the-badge" /><img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
