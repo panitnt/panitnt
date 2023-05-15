@@ -2,7 +2,7 @@
 <h3 align="center">Software and Knowledge Engineering student at Kasetsart University.</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=panitnt" alt="panitnt" /></a> </p>
 
-- 🌱 I’m currently learning   <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?logo=Swift&logoColor=white&style=for-the-badge" />
+- 🌱 I’m currently learning     <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
 - 🖥️  See my portfolio at [My archive project](https://panitnt.pythonanywhere.com)
 - ✉️  You can contact me at [panittatanya@gmail.com](mailto:panittatanya@gmail.com)
 
@@ -19,8 +19,6 @@
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge" />
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=for-the-badge" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
-
 
 </p>
 <!-- <p>&nbsp;<img height=150px src="https://github-readme-stats.vercel.app/api?username=panitnt&show_icons=true&locale=en" alt="panitnt" />
