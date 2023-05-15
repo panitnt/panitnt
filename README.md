@@ -3,7 +3,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=panitnt" alt="panitnt" /></a> </p>
 
 - 🌱 I’m currently learning <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge" /><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=for-the-badge" /><img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
-- 👨‍💻 All of my projects are available at <a href="https://panitnt.pythonanywhere.com/" target="_blank">https://panitnt.pythonanywhere.com/</a>
+- 🖥️  See my portfolio at [My archive project](https://panitnt.pythonanywhere.com)
+- ✉️  You can contact me at [panittatanya@gmail.com](mailto:panittatanya@gmail.com)
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
@@ -16,5 +17,15 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=for-the-badge" />
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-06B6D4?logo=TailwindCSS&logoColor=white&style=for-the-badge" />
 </p>
-<p>&nbsp;<img height=150px src="https://github-readme-stats.vercel.app/api?username=panitnt&show_icons=true&locale=en" alt="panitnt" />
+<!-- <p>&nbsp;<img height=150px src="https://github-readme-stats.vercel.app/api?username=panitnt&show_icons=true&locale=en" alt="panitnt" />
 <img height=150px src="https://github-readme-stats.vercel.app/api/top-langs?username=panitnt&show_icons=true&locale=en&layout=compact" alt="panitnt" /></p>
+ -->
+ <b>My GitHub Stats</b>
+<p>
+<img height=150px src="https://github-readme-stats.vercel.app/api?username=panitnt&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=14b8a6&bg_color=22272e&hide_border=true&show_icons=true" alt="panitnt's GitHub stats" />
+
+<img height=150px src="https://github-readme-streak-stats.herokuapp.com/?user=panitnt&stroke=ffffff&background=22272e&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  
+</p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panitnt&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=14b8a6&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
