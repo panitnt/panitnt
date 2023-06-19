@@ -11,7 +11,7 @@
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=for-the-badge" />
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white&style=for-the-badge" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=for-the-badge" />
 </p>
 <h4 align="left">Frontend:</h3>
@@ -20,6 +20,11 @@
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=for-the-badge" />
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-06B6D4?logo=TailwindCSS&logoColor=white&style=for-the-badge" />
+</p>
+<h4 align="left">Backend:</h3>
+<p>
+  <img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white" />
 </p>
 <h4 align="left">Framework:</h3>
 <p>
