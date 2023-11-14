@@ -53,3 +53,4 @@
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panitnt&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=14b8a6&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=panitnt&label=Profile%20views&color=0e75b6&style=flat" alt="panitnt" /> </p>
