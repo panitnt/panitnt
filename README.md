@@ -2,8 +2,8 @@
 <h3 align="center">Software and Knowledge Engineering student at Kasetsart University.</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=panitnt" alt="panitnt" /></a> </p>
 
-- 🌱 I’m currently learning <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
-- 🖥️  See my portfolio at [My archive project](https://panitnt.pythonanywhere.com)
+- 🌱 I’m currently learning <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" /> <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" />
+- 🖥️  See my portfolio at [My archive project](https://panitnt-portfolio.vercel.app/)
 - ✉️  You can contact me at [panittatanya@gmail.com](mailto:panittatanya@gmail.com)
 
 <h3 align="left">Skills:</h3>
