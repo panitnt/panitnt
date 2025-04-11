@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning 
   <img alt="Angular" src="https://img.shields.io/badge/Angular-0F0F11?logo=angular&logoColor=white&style=for-the-badge" />
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=Flutter&logoColor=white&style=for-the-badge" />
-- 🖥️  See my portfolio at [My archive project](https://panitnt-portfolio.vercel.app/)
 - ✉️  You can contact me at [panittatanya@gmail.com](mailto:panittatanya@gmail.com)
 
 <h3 align="left">Skills:</h3>
